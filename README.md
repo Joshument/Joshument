@@ -1,8 +1,8 @@
 It's me Joshument
 
-I code stuff in Rust, C++, Python, Lua, and a bit of x86asm
+I primarily write code in Rust and Lua, but dabble in a lot of languages whenever they're relevant to what I'm doing.
 
-Contact me @imperishablenight on discord if you need a quicker response, as I tend to be more active there than on GitHub.
+Contact me on Twitter if you need a quicker response, as I tend to be a lot more active there than on GitHub.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshument&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
